@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.stormcloudsgathering"
+	name="Storm Clouds Gathering"
+	version="1.0.0"
+	provider-name="leopheard">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Storm Clouds Gathering video addon</summary>
+    <description lang="en">News, politics, geopolitical analysis and philosophy for those who like to think outside the box.</description>
+    <platform>all</platform>
+    <forum></forum>
+    <source>https://github.com/leopheard/stormcloudsgathering.git</source>
+    <website>http://stormcloudsgathering.com/</website>
+    <email>leopheard@gmail.com</email>
+    <license>The MIT License (MIT)</license>
+    <assets>
+        <icon>resources/media/icon.png</icon>
+        <fanart>resources/media/fanart.jpeg</fanart>
+        <screenshot>resources/media/screen1.jpg</screenshot>
+        <screenshot>resources/media/screen3.jpg</screenshot>
+        <screenshot>resources/media/screen2.jpg</screenshot>
+    </assets>
+  </extension>
+</addon>
