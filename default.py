@@ -34,7 +34,7 @@ def run():
 
 # Main menu
 def main_list(params):
-    plugintools.log("empirefiles.main_list "+repr(params))
+    plugintools.log("stormcloudsgathering.main_list "+repr(params))
 #note below - some YTs are /user/xxx and some /channel/xxx
     plugintools.add_item( 
         #action="", 
