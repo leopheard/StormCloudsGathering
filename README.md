@@ -1,13 +1,9 @@
 # Storm Clouds Gathering
 
-Kodi / Firestick / XMBC video addon for Storm Clouds Gathering
+<a href="www.kodi.tv">KODI</a> / Firestick / XMBC video addon for <a href="http://stormcloudsgathering.com">Storm Clouds Gathering</a> channel.<br>
 
-<a href="http://stormcloudsgathering.com">StormCloudsGathering.com</a>
-
-**Install**
-
-Launch Kodi >> Add-ons >> Package Icon >> Install from Zip<br>
-Or alternatively use the search feature at the top of the main Kodi page, search for the Github installer and install via this app. Search for this repository or this addon name (leopheard or stormscloudsgathering)<br>
+^^^ To install this addon, either use the <a href="https://www.tvaddons.co/github-browser-kodi/">Kodi Github installer</a> addon or save the .zip file downloaded from the 'clone or download' button to somewhere the Kodi can access (e.g. network drive or USB stick). Then on the Kodi, go to addons > install from zip file.<br>
 
 ![alt text](https://raw.githubusercontent.com/leopheard/stormcloudsgathering/master/resources/media/screen1.jpg)<br>
+<br><a href="http://www.kodi.tv"><img src="https://kodi.tv/sites/default/files/page/field_image/about--devices.jpg">
 
